@@ -5,5 +5,11 @@
       "/posts/post-with-code/index.html",
       "/posts/welcome/index.html"
     ]
+  },
+  {
+    "listing": "/packages.html",
+    "items": [
+      "/packages/twn/index.html"
+    ]
   }
 ]

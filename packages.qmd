@@ -1,0 +1,14 @@
+---
+title: R-packages
+listing: 
+  contents: packages
+  type: table
+  categories: true
+  sort-ui: false
+  filter-ui: false
+page-layout: full
+title-block-banner: true
+---
+
+Ik heb verschillende R-packages gemaakt. Hieronder vind je een overzicht van deze packages.
+
