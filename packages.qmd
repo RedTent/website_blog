@@ -1,9 +1,17 @@
 ---
 title: R-packages
 listing: 
-  contents: packages
-  type: table
-  categories: true
+  contents: 
+    - "twn/*.qmd"
+    - "aquodom/*.qmd"
+    - "HHSKwkl/*.qmd"
+    - "krw/*.qmd"
+  sort: "date desc"
+  type: default
+  categories: false
+  image-align: right
+  max-description-length: 175
+  image-height: "200px"
   sort-ui: false
   filter-ui: false
 page-layout: full
@@ -11,4 +19,6 @@ title-block-banner: true
 ---
 
 Ik heb verschillende R-packages gemaakt. Hieronder vind je een overzicht van deze packages.
+
+---
 

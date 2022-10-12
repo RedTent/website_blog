@@ -12,6 +12,7 @@ website:
       - about.qmd
       - icon: github
         href: https://github.com/RedTent
+  
 format:
   html:
     theme: 
@@ -20,4 +21,6 @@ format:
     css: styles.css
 
 
+execute: 
+  freeze: auto
 
