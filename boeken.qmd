@@ -5,10 +5,9 @@ editor: visual
 
 Lijst van interessante (gelezen) boeken en andere resources. Veel van de onderstaande boeken en resources zijn (ook) online te lezen.
 
-- Big book of R
-- Rework podcast
-- diverse boeken (KAhneman, How we learn etc.)
-
+-   Big book of R
+-   Rework podcast
+-   diverse boeken (KAhneman, How we learn etc.)
 
 ------------------------------------------------------------------------
 

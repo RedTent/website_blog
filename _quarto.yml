@@ -3,12 +3,17 @@ project:
   output-dir: docs
 
 website:
-  title: "Ecologie, data en meer"
+  title: "Meer doen met data"
   navbar:
-    right:
-      - index.qmd
-      - boeken.qmd
+    logo: "images/JTIP_grey80.png"
+    logo-alt: "Inverse Pi"
+    left:
+      - blog.qmd
+      - text: "Boeken"
+        icon: book
+        file: boeken.qmd
       - packages.qmd
+    right:
       - about.qmd
       - icon: github
         href: https://github.com/RedTent

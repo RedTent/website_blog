@@ -3,7 +3,7 @@ title: "twn - de TWN-lijst voor R "
 #author: "Johan van Tent"
 #date: "2022-10-20"
 categories: [R-packages, CRAN]
-image: https://github.com/RedTent/twn/raw/master/inst/extdata/twn_hex.png
+image: twn_hex.png
 description: "Taxa Waterbeheer Nederland (TWN)<br><br> *twn* heeft diverse functies die het gemakkelijk maken om de TWN-lijst te gebruiken bij de analyse van ecologische data in R."
 ---
 
